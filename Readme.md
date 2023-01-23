@@ -34,3 +34,5 @@ The TextRank algorithm is used for text summarization. The sentence_score functi
 
     metric(row: pd.Series) -> float
     This function takes a row of pandas DataFrame and uses ROUGE-1 metric to calculate the similarity score between the original article and the summary. It returns the ROUGE-1 F1 score.
+
+[Text](./result.csv)
